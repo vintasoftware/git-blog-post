@@ -1,0 +1,2 @@
+
+ANSWER_OF_LIFE = 0x2a
